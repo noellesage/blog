@@ -1,0 +1,74 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 0.2em;
+    font-size: 14px
+}
+
+
+
+#title {
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    font-weight: bold;
+    text-align: left;
+}
+
+#something {
+    font-style: italic;
+    color: grey;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.navbar {
+    border-width: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: rgba(0,0,0,0.0);
+    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+    color: black;
+}
+
+#prof_pic {
+    height: 200px;
+    width: 200px;
+}
+
+.blog_post {
+    border-bottom: 2px solid black;
+    padding: 20px;
+
+}
+
+#gallery img {
+    height: 12%;
+    width: 30%;
+}
+
+#gallery {
+    padding-top:1cm;
+    padding-bottom: 4cm;
+}
+
+.jumbotron { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+#like {
+    text-align: center;
+}
+
+a:link, a:visited {
+    color:#000;
+    background:none;
+}
+a:hover, a:active, a:focus 
+
+.form-control {
+    text-align: right;
+}
+
